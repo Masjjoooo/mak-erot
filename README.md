@@ -1,4 +1,3 @@
-```markdown
 # 🚀 MAK EROT v3 - Marriott Bonvoy Auto Registration
 
 <div align="center">
