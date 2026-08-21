@@ -77,8 +77,8 @@ Akun yang Dibutuhkan
 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/makerot.git
-cd makerot
+https://github.com/Masjjoooo/mak-erot.git
+cd mak-erot
 ```
 
 2. Install Dependencies
