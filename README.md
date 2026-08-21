@@ -31,7 +31,7 @@
 - [Flow Diagram](#-flow-diagram)
 - [Troubleshooting](#-troubleshooting)
 - [Disclaimer](#-disclaimer)
-- [Lisensi](#-lisensi)
+- [Lisensi](#-lisense)
 
 ---
 
